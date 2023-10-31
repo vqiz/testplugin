@@ -1,0 +1,4 @@
+name: testplugin
+version: '${project.version}'
+main: org.vqiz.testplugin.Testplugin
+api-version: '1.20'

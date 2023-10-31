@@ -1,0 +1,7 @@
+{
+  "compilecommand": "mvn package",
+  "commandexecute": true,
+  "pathtomove": "/root/server/plugins/",
+  "restartcommand": "screen -dr server && stop && java -jar spigot-1.20.1 (1).jar",
+  "screencapturecommand": "asdasd",
+}

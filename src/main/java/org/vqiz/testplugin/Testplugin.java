@@ -7,7 +7,7 @@ public final class Testplugin extends JavaPlugin {
     @Override
     public void onEnable() {
         System.out.println("enabled 111111111111");
-        System.out.println("a   asd     yxc     asdasddolf");
+        System.out.println("a   asd     yxc     assddolf");
         System.out.println("tst");
     }
 

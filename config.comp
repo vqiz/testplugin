@@ -2,7 +2,7 @@
   "compilecommand": "mvn package",
   "commandexecute": true,
   "pathtomove": "/root/server/plugins/",
-  "restartcommand": "screen -S server -p 0 -X stuff $'\003' && screen -S server -p 0 -X stuff $'java -jar spigot-1.20.1(1).jar\n'",
+  "restartcommand": "screen -S server -p 0 -X stuff $'\003' && screen -S server -p 0 -X stuff $'java -jar spigot-1.20.1(1).jar\n' && test",
   "screencapturecommand": "asdasd",
   "outputfilename": "/target/testplugin-1.0-SNAPSHOT.jar",
 }

@@ -2,7 +2,7 @@
   "compilecommand": "mvn package",
   "commandexecute": true,
   "pathtomove": "/root/server/plugins/",
-  "restartcommand": "screen -S server stop",
+  "restartcommand": "screen -S server -X stuff stop\n'",
   "screencapturecommand": "asdasd",
   "outputfilename": "/target/testplugin-1.0-SNAPSHOT.jar",
 }
